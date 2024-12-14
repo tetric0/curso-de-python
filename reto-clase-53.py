@@ -74,7 +74,11 @@ producto1.precio = 6
 producto1.stock = 50
 producto2.precio = 12
 producto2.stock = 80
+<<<<<<< HEAD
 producto3.precio = 20
+=======
+producto3.precio =20
+>>>>>>> 291ff522611c0674cb364805bbc6a790c5db1433
 producto3.stock = 77
 producto4.precio = 54
 producto4.stock = 10
